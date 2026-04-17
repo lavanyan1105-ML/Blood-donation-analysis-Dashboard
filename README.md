@@ -10,7 +10,7 @@ This project analyzes health and wellness survey data to understand donor behavi
 
 ## 🎯 Objectives
 
-* Analyze factors affecting blood donation willingness
+* Analyze factors affecting blood donation willingnes
 * Identify barriers and misconceptions
 * Discover potential donor groups
 * Provide actionable recommendations
