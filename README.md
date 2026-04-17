@@ -5,6 +5,15 @@
 The availability of blood donors is essential for saving lives. However, factors such as personal health, lifestyle habits, and misconceptions often reduce participation.
 
 This project analyzes health and wellness survey data to understand donor behavior and identify ways to improve blood donation participation.
+<img width="1364" height="761" alt="1" src="https://github.com/user-attachments/assets/a2d3e4f0-fcdc-4b40-9c89-d6fa8740bc8d" />
+
+
+
+<img width="1370" height="766" alt="33" src="https://github.com/user-attachments/assets/6129c453-f29f-4c21-a201-6a13afdfc1bc" />
+
+
+
+<img width="1361" height="757" alt="22" src="https://github.com/user-attachments/assets/ae64b1e4-175f-46c6-b23c-f5e9a13a1354" />
 
 ---
 
